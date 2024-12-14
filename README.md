@@ -4,6 +4,7 @@
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 ![MUI](https://skillicons.dev/icons?i=mui)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
+![d3](https://skillicons.dev/icons?i=d3)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
@@ -28,6 +29,7 @@
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Prisma](https://skillicons.dev/icons?i=prisma)
 ![Postman](https://skillicons.dev/icons?i=postman)
+![Docker](https://skillicons.dev/icons?i=docker)
 
 ## 触れたことがある
 ![firebase](https://skillicons.dev/icons?i=firebase)
@@ -36,8 +38,6 @@
 ![Java](https://skillicons.dev/icons?i=java)
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
-![Docker](https://skillicons.dev/icons?i=docker)
-![d3](https://skillicons.dev/icons?i=d3)
 
 
 ---

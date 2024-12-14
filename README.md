@@ -31,12 +31,12 @@
 ![Heroku](https://skillicons.dev/icons?i=heroku)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![mongodb](https://skillicons.dev/icons?i=mongodb)
 ![Prisma](https://skillicons.dev/icons?i=prisma)
 ![Postman](https://skillicons.dev/icons?i=postman)
 
 ## 触れたことがある
 ![firebase](https://skillicons.dev/icons?i=firebase)
+![mongodb](https://skillicons.dev/icons?i=mongodb)
 ![processing](https://skillicons.dev/icons?i=processing)
 ![Java](https://skillicons.dev/icons?i=java)
 ![C](https://skillicons.dev/icons?i=c)

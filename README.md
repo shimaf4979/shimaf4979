@@ -1,8 +1,6 @@
 # 💐ようこそ💐
 
 ## 現在学習中
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 ![MUI](https://skillicons.dev/icons?i=mui)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
@@ -22,8 +20,6 @@
 
 ![Markdown](https://skillicons.dev/icons?i=md)
 ![notion](https://skillicons.dev/icons?i=notion)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
 ![vercel](https://skillicons.dev/icons?i=vercel)

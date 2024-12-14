@@ -1,20 +1,19 @@
-# よ
+# ようこそ　！
 
-## 🔧 スキル
-## 🔧 スキル
-
-![Apple](https://skillicons.dev/icons?i=apple)
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
-![CSS](https://skillicons.dev/icons?i=css)
+## 得意な分野
 ![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![React](https://skillicons.dev/icons?i=react)
-![Docker](https://skillicons.dev/icons?i=docker)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Vite](https://skillicons.dev/icons?i=vite)
+
+![Python](https://skillicons.dev/icons?i=py)
+![Selenium](https://skillicons.dev/icons?i=selenium)
 ![Django](https://skillicons.dev/icons?i=django)
+![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
+![Docker](https://skillicons.dev/icons?i=docker)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Flask](https://skillicons.dev/icons?i=flask)
 ![GitHub](https://skillicons.dev/icons?i=github)
@@ -29,11 +28,11 @@
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Prisma](https://skillicons.dev/icons?i=prisma)
-![Python](https://skillicons.dev/icons?i=py)
-![Selenium](https://skillicons.dev/icons?i=selenium)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-![Vite](https://skillicons.dev/icons?i=vite)
 ![Anaconda](https://skillicons.dev/icons?i=anaconda)
+
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
 
 ---
 

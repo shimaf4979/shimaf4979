@@ -1,6 +1,6 @@
 # ようこそ　！
 
-## 得意な分野
+## 学習中
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
@@ -37,7 +37,7 @@
 ![Prisma](https://skillicons.dev/icons?i=prisma)
 ![Postman](https://skillicons.dev/icons?i=postman)
 
-## 現在勉強中
+## 勉強予定
 ![Java](https://skillicons.dev/icons?i=java)
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)

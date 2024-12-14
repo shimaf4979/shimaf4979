@@ -1,4 +1,16 @@
-## Hi there 👋
+# ようこそ！ 👋
+
+## 🔧 スキル
+![Java](https://skillicons.dev/icons?i=java)
+![Spring](https://skillicons.dev/icons?i=spring)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![GitHub](https://skillicons.dev/icons?i=github)
+
+---
+
+## 🏆 GitHub トロフィー
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=あなたのGitHubユーザー名&theme=darkhub&column=4&margin-w=15&margin-h=15)
+
 
 <!--
 **shimaf4979/shimaf4979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

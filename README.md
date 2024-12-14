@@ -8,6 +8,7 @@
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Three.js](https://skillicons.dev/icons?i=threejs)
 ![Vite](https://skillicons.dev/icons?i=vite)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![express](https://skillicons.dev/icons?i=express)

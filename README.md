@@ -19,7 +19,6 @@
 ![Django](https://skillicons.dev/icons?i=django)
 ![Flask](https://skillicons.dev/icons?i=flask)
 ![Anaconda](https://skillicons.dev/icons?i=anaconda)
-![processing](https://skillicons.dev/icons?i=processing)
 
 ![Markdown](https://skillicons.dev/icons?i=md)
 ![notion](https://skillicons.dev/icons?i=notion)
@@ -28,7 +27,6 @@
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
 ![vercel](https://skillicons.dev/icons?i=vercel)
-![firebase](https://skillicons.dev/icons?i=firebase)
 ![supabase](https://skillicons.dev/icons?i=supabase)
 ![Heroku](https://skillicons.dev/icons?i=heroku)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
@@ -38,6 +36,8 @@
 ![Postman](https://skillicons.dev/icons?i=postman)
 
 ## 触れたことがある
+![firebase](https://skillicons.dev/icons?i=firebase)
+![processing](https://skillicons.dev/icons?i=processing)
 ![Java](https://skillicons.dev/icons?i=java)
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)

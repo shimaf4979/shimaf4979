@@ -9,7 +9,7 @@
 ---
 
 ## 🏆 GitHub トロフィー
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=あなたのGitHubユーザー名&theme=darkhub&column=4&margin-w=15&margin-h=15)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=shimaf4979&theme=darkhub&column=4&margin-w=15&margin-h=15)
 
 
 <!--

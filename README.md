@@ -43,6 +43,9 @@
 ---
 ## 活動記録
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimaf4979&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shimaf4979&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shimaf4979&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimaf4979&theme=default)
 
 
 <!--

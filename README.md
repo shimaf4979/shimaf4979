@@ -44,8 +44,6 @@
 ## 活動記録
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimaf4979&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shimaf4979&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimaf4979&theme=default)
-
 
 <!--
 **shimaf4979/shimaf4979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

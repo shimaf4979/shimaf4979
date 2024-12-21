@@ -18,7 +18,6 @@
 
 ![notion](https://skillicons.dev/icons?i=notion)
 ![Figma](https://skillicons.dev/icons?i=figma)
-![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
 ![vercel](https://skillicons.dev/icons?i=vercel)
 ![supabase](https://skillicons.dev/icons?i=supabase)
 ![MySQL](https://skillicons.dev/icons?i=mysql)

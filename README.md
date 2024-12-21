@@ -31,14 +31,14 @@
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Docker](https://skillicons.dev/icons?i=docker)
 
-## 触れたことがある
+<!-- ## 触れたことがある
 ![firebase](https://skillicons.dev/icons?i=firebase)
 ![mongodb](https://skillicons.dev/icons?i=mongodb)
 ![processing](https://skillicons.dev/icons?i=processing)
 ![Java](https://skillicons.dev/icons?i=java)
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
-
+--!>
 
 ---
 ## 活動記録

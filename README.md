@@ -38,7 +38,7 @@
 ![Java](https://skillicons.dev/icons?i=java)
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
---!>
+-->
 
 ---
 ## 活動記録

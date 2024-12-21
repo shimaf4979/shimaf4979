@@ -13,7 +13,6 @@
 ![Python](https://skillicons.dev/icons?i=py)
 ![Selenium](https://skillicons.dev/icons?i=selenium)
 ![Django](https://skillicons.dev/icons?i=django)
-![Anaconda](https://skillicons.dev/icons?i=anaconda)
 
 ![notion](https://skillicons.dev/icons?i=notion)
 ![Figma](https://skillicons.dev/icons?i=figma)

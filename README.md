@@ -2,7 +2,6 @@
 
 ## 現在学習中
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-![MUI](https://skillicons.dev/icons?i=mui)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![d3](https://skillicons.dev/icons?i=d3)
 ![Three.js](https://skillicons.dev/icons?i=threejs)
@@ -15,20 +14,16 @@
 ![Python](https://skillicons.dev/icons?i=py)
 ![Selenium](https://skillicons.dev/icons?i=selenium)
 ![Django](https://skillicons.dev/icons?i=django)
-![Flask](https://skillicons.dev/icons?i=flask)
 ![Anaconda](https://skillicons.dev/icons?i=anaconda)
 
-![Markdown](https://skillicons.dev/icons?i=md)
 ![notion](https://skillicons.dev/icons?i=notion)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
 ![vercel](https://skillicons.dev/icons?i=vercel)
 ![supabase](https://skillicons.dev/icons?i=supabase)
-![Heroku](https://skillicons.dev/icons?i=heroku)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Prisma](https://skillicons.dev/icons?i=prisma)
-![Postman](https://skillicons.dev/icons?i=postman)
 ![Docker](https://skillicons.dev/icons?i=docker)
 
 <!-- ## 触れたことがある

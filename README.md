@@ -2,7 +2,6 @@
 
 ## 現在学習中
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![d3](https://skillicons.dev/icons?i=d3)
 ![Three.js](https://skillicons.dev/icons?i=threejs)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)

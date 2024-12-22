@@ -8,10 +8,8 @@
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Vite](https://skillicons.dev/icons?i=vite)
-![express](https://skillicons.dev/icons?i=express)
 ![Nest.js](https://skillicons.dev/icons?i=nestjs)
 ![Python](https://skillicons.dev/icons?i=py)
-![Selenium](https://skillicons.dev/icons?i=selenium)
 ![Django](https://skillicons.dev/icons?i=django)
 
 ![notion](https://skillicons.dev/icons?i=notion)

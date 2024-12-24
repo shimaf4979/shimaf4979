@@ -9,7 +9,7 @@
 ![Nest.js](https://skillicons.dev/icons?i=nestjs)
 ![Django](https://skillicons.dev/icons?i=django)
 
-## よく使います
+## その他
 ![notion](https://skillicons.dev/icons?i=notion)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![supabase](https://skillicons.dev/icons?i=supabase)

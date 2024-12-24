@@ -4,9 +4,8 @@
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 ![d3](https://skillicons.dev/icons?i=d3)
 ![Three.js](https://skillicons.dev/icons?i=threejs)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Vite](https://skillicons.dev/icons?i=vite)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Nest.js](https://skillicons.dev/icons?i=nestjs)
 ![Django](https://skillicons.dev/icons?i=django)
 

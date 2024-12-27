@@ -4,7 +4,7 @@
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 ![d3](https://skillicons.dev/icons?i=d3)
 ![Three.js](https://skillicons.dev/icons?i=threejs)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gsap,figma&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gsap&theme=light)
 ![Vite](https://skillicons.dev/icons?i=vite)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Nest.js](https://skillicons.dev/icons?i=nestjs)

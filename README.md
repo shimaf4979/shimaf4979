@@ -15,7 +15,6 @@
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![supabase](https://skillicons.dev/icons?i=supabase)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Prisma](https://skillicons.dev/icons?i=prisma)
 ![Docker](https://skillicons.dev/icons?i=docker)
 

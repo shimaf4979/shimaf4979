@@ -11,7 +11,6 @@
 ![Django](https://skillicons.dev/icons?i=django)
 
 ## その他
-![notion](https://skillicons.dev/icons?i=notion)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![supabase](https://skillicons.dev/icons?i=supabase)
 ![MySQL](https://skillicons.dev/icons?i=mysql)

@@ -5,7 +5,7 @@
 ![d3](https://skillicons.dev/icons?i=d3)
 ![Three.js](https://skillicons.dev/icons?i=threejs)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gsap&theme=dark)
-![Vite](https://skillicons.dev/icons?i=vite)
+![Vite](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Nest.js](https://skillicons.dev/icons?i=nestjs)
 ![Django](https://skillicons.dev/icons?i=django)

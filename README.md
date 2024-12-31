@@ -8,9 +8,11 @@
 ![Vite](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Nest.js](https://skillicons.dev/icons?i=nestjs)
-![Django](https://skillicons.dev/icons?i=django)
+
 
 ## その他
+![Django](https://skillicons.dev/icons?i=python)
+![Django](https://skillicons.dev/icons?i=django)
 ![Figma](https://skillicons.dev/icons?i=java)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![supabase](https://skillicons.dev/icons?i=supabase)

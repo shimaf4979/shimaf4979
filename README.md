@@ -14,7 +14,6 @@
 ![Django](https://skillicons.dev/icons?i=python)
 ![Django](https://skillicons.dev/icons?i=django)
 ![Figma](https://skillicons.dev/icons?i=java)
-![Figma](https://skillicons.dev/icons?i=figma)
 ![supabase](https://skillicons.dev/icons?i=supabase)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Prisma](https://skillicons.dev/icons?i=prisma)

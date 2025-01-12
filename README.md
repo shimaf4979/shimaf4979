@@ -1,7 +1,7 @@
 # 💐ようこそ💐
 
 ## 得意分野
-![Vite](https://skillicons.dev/icons?i=tyoescript)
+![Vite](https://skillicons.dev/icons?i=ts)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 ![Vite](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)

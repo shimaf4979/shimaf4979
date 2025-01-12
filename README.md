@@ -1,12 +1,16 @@
 # 💐ようこそ💐
 
-## 現在学習中
+## 得意分野
+![Vite](https://skillicons.dev/icons?i=tyoescript)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+![Vite](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+
+## 現在学習中
+
 ![d3](https://skillicons.dev/icons?i=d3)
 ![Three.js](https://skillicons.dev/icons?i=threejs)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gsap&theme=dark)
-![Vite](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Nest.js](https://skillicons.dev/icons?i=nestjs)
 
 

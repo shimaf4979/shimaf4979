@@ -37,10 +37,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimaf4979&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shimaf4979&theme=default)
 
-<p align="left"> 
-  <img alt="Top Langs" height="2000px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimaf4979&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=shimaf4979&theme=onedark&show_icons=ture" />
-</p>
 
 <!--
 **shimaf4979/shimaf4979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

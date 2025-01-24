@@ -10,14 +10,14 @@
 
 ![d3](https://skillicons.dev/icons?i=d3)
 ![Three.js](https://skillicons.dev/icons?i=threejs)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gsap&theme=dark)
 ![Nest.js](https://skillicons.dev/icons?i=nestjs)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark)
+
 
 
 ## その他
 ![Django](https://skillicons.dev/icons?i=python)
 ![Django](https://skillicons.dev/icons?i=django)
-![supabase](https://skillicons.dev/icons?i=supabase)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Docker](https://skillicons.dev/icons?i=docker)
 

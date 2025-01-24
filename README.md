@@ -17,10 +17,8 @@
 ## その他
 ![Django](https://skillicons.dev/icons?i=python)
 ![Django](https://skillicons.dev/icons?i=django)
-![Figma](https://skillicons.dev/icons?i=java)
 ![supabase](https://skillicons.dev/icons?i=supabase)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![Prisma](https://skillicons.dev/icons?i=prisma)
 ![Docker](https://skillicons.dev/icons?i=docker)
 
 <!-- ## 触れたことがある

@@ -16,9 +16,9 @@
 
 
 ## その他
-![Django](https://skillicons.dev/icons?i=python)
 ![Django](https://skillicons.dev/icons?i=django)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![Django](https://skillicons.dev/icons?i=supabase)
 ![Docker](https://skillicons.dev/icons?i=docker)
 
 <!-- ## 触れたことがある

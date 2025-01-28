@@ -1,5 +1,7 @@
 # 💐ようこそ💐
 
+Nagoya Institute of Technology / B2
+
 ## 得意分野
 ![Vite](https://skillicons.dev/icons?i=ts)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)

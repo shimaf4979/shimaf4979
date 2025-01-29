@@ -1,4 +1,4 @@
-# 💐☺️Hi there☺️💐
+# 💐Hi there ☺️💐
 
 Nagoya Institute of Technology / B2
 

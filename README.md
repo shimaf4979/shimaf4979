@@ -1,36 +1,24 @@
 # 💐Hi there ☺️💐
 Nagoya Institute of Technology / Bachelor2
 
-.skills-container {
-  display: flex;
-  justify-content: space-between;
-  text-align: center;
-}
 
-.skills-section {
-  width: 33.33%;
-}
-
-.skills-section img {
-  margin: 5px;
-}
-
-<div class="skills-container">
-  <div class="skills-section">
+```html
+<div style="display: flex; justify-content: space-between; text-align: center;">
+  <div style="width: 33.33%;">
     <h3>得意分野</h3>
     <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript">
     <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS">
     <img src="https://skillicons.dev/icons?i=react" alt="React">
     <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js">
   </div>
-  <div class="skills-section">
+  <div style="width: 33.33%;">
     <h3>現在学習中</h3>
     <img src="https://skillicons.dev/icons?i=php" alt="PHP">
     <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js">
     <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java">
   </div>
-  <div class="skills-section">
+  <div style="width: 33.33%;">
     <h3>その他</h3>
     <img src="https://skillicons.dev/icons?i=django" alt="Django">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
@@ -38,6 +26,7 @@ Nagoya Institute of Technology / Bachelor2
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker">
   </div>
 </div>
+
 
 
 ## 得意分野

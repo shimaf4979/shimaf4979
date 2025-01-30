@@ -48,8 +48,8 @@ Nagoya Institute of Technology, 2nd-year Bachelor student
 ### [振り返り記事](https://qiita.com/shima14142/items/de1c328d233a6248518a)
 
 
-<p><strong>プロダクト名</strong>：マチケンナンバ</p>
-<p><strong>担当</strong>：フロントエンド、認証機能</p>
+<p><strong>プロダクト名→</strong>マチケンナンバ</p>
+<p><strong>担当→</strong>フロントエンド、認証機能</p>
 <p>お祭りの屋台で発生する待ち時間を解消し、お客様が効率的に時間を使えるようにするためのウェブアプリを作成しました。</p>
 
 <br/>
@@ -62,8 +62,8 @@ Nagoya Institute of Technology, 2nd-year Bachelor student
 ### [サイト(稼働中🔥)](https://www.crti.jp/)
 
 
-<p><strong>プロダクト名</strong>：CRTI 理系学生の心の声</p>
-<p><strong>担当</strong>：フロントエンド、バックエンド全般</p>
+<p><strong>プロダクト→</strong>CRTI 理系学生の心の声</p>
+<p><strong>担当→</strong>フロントエンド、バックエンド全般</p>
 <p>理系の学生が抱えている悩みを特定するサイトを制作しました。200人以上の方にご協力していただき、有益なデータが入手できました。</p>
 
 <br/>

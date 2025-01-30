@@ -2,7 +2,6 @@
 Nagoya Institute of Technology / Bachelor2
 
 
-```html
 <div style="display: flex; justify-content: space-between; text-align: center;">
   <div style="width: 33.33%;">
     <h3>得意分野</h3>
@@ -26,7 +25,7 @@ Nagoya Institute of Technology / Bachelor2
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker">
   </div>
 </div>
-```
+
 
 
 ## 得意分野

@@ -1,6 +1,5 @@
 # 💐Hi there ☺️💐
-
-Nagoya Institute of Technology / B2
+Nagoya Institute of Technology / Bachelor2
 
 ## 得意分野
 ![Vite](https://skillicons.dev/icons?i=ts)

@@ -71,6 +71,8 @@ Nagoya Institute of Technology, 2nd-year Bachelor student
 <p>理系の学生が抱えている悩みを特定するサイトを制作しました。</p>
 <p>200人以上の方にご協力していただき、有益なデータが入手できました。</p>
 
+<br/>
+
 ### < MelonChart検索アプリ >
 
 

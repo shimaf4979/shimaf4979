@@ -70,7 +70,8 @@ Nagoya Institute of Technology, 2nd-year Bachelor student
 
 ### < MelonChart検索アプリ >
 
-<img width="300px" alt="スクリーンショット 2025-01-30 18 49 39" src="https://github.com/user-attachments/assets/8eb6b0ed-675f-4325-8b93-92ec2ff65e3a" />
+
+<img width="300px" alt="スクリーンショット 2025-01-30 18 55 24" src="https://github.com/user-attachments/assets/c4a37d51-14b1-48cd-886c-b230e4913ee9" />
 
 
 ### [作業リポジトリ](https://github.com/shimaf4979/my-worry-app)　
@@ -89,10 +90,6 @@ Nagoya Institute of Technology, 2nd-year Bachelor student
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shimaf4979&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shimaf4979&theme=dracula)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=dracula)
-
-
-
-
 
 
 

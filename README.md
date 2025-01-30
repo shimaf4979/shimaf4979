@@ -33,6 +33,15 @@ Nagoya Institute of Technology / Bachelor2
 
 
 
+
+## Activity
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimaf4979&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shimaf4979&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shimaf4979&theme=dracula)
+![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=dracula)
+
+
+
 <p>
   <h2 align="center">C0deハッカソンwithピクシブ</h2>
   <h3 align="center">ピクシブ最優秀賞、OB優秀賞</h3>
@@ -45,6 +54,25 @@ Nagoya Institute of Technology / Bachelor2
 <li>プロダクト名：マチケンナンバ</li>
 <li>お祭りの屋台で発生する待ち時間を解消し、お客様が効率的に時間を使えるようにするためのウェブアプリです。</li>
 <li>担当:フロントエンド、認証機能</li>
+
+
+
+
+
+<!--
+**shimaf4979/shimaf4979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 
 <!--
@@ -68,38 +96,4 @@ Nagoya Institute of Technology / Bachelor2
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Django](https://skillicons.dev/icons?i=supabase)
 ![Docker](https://skillicons.dev/icons?i=docker)
--->
-
-## Activity
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimaf4979&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shimaf4979&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shimaf4979&theme=dracula)
-![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=dracula)
-
-
-<!-- ## 触れたことがある
-![firebase](https://skillicons.dev/icons?i=firebase)
-![mongodb](https://skillicons.dev/icons?i=mongodb)
-![processing](https://skillicons.dev/icons?i=processing)
-![Java](https://skillicons.dev/icons?i=java)
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
--->
-
-
-
-
-<!--
-**shimaf4979/shimaf4979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

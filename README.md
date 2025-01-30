@@ -35,15 +35,6 @@ Nagoya Institute of Technology, 2nd-year Bachelor student
 
 
 
-
-# Activity
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimaf4979&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shimaf4979&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shimaf4979&theme=dracula)
-![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=dracula)
-
-
-
 # Portfolio
 
 ## C0deハッカソンwithピクシブ
@@ -59,6 +50,18 @@ Nagoya Institute of Technology, 2nd-year Bachelor student
 <p><strong>プロダクト名</strong>：マチケンナンバ</p>
 <p><strong>担当</strong>：フロントエンド、認証機能</p>
 <p>お祭りの屋台で発生する待ち時間を解消し、お客様が効率的に時間を使えるようにするためのウェブアプリ</p>
+
+
+
+
+
+# Activity
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimaf4979&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shimaf4979&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shimaf4979&theme=dracula)
+![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=dracula)
+
+
 
 
 </div>

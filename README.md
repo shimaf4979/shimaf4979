@@ -55,11 +55,13 @@ Nagoya Institute of Technology / Bachelor2
 ### [作業リポジトリ](https://github.com/inukaki/MachikenNumber)　
 ### [振り返り記事](https://qiita.com/shima14142/items/de1c328d233a6248518a)
 
-<table>
-  <tr><td><strong>プロダクト名</strong></td><td>マチケンナンバ</td></tr>
-  <tr><td><strong>概要</strong></td><td>お祭りの屋台で発生する待ち時間を解消し、お客様が効率的に時間を使えるようにするためのウェブアプリ</td></tr>
-  <tr><td><strong>担当</strong></td><td>フロントエンド、認証機能</td></tr>
-</table>
+<ul>
+  <li><strong>プロダクト名</strong>：マチケンナンバ</li>
+  <li>お祭りの屋台で発生する待ち時間を解消し、お客様が効率的に時間を使えるようにするためのウェブアプリ</li>
+  <li><strong>担当</strong>：フロントエンド、認証機能</li>
+</ul>
+
+</div>
 
 </div>
 

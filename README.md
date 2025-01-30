@@ -37,7 +37,7 @@ Nagoya Institute of Technology, 2nd-year Bachelor student
 
 # Portfolio
 
-## C0deハッカソンwithピクシブ
+### C0deハッカソンwithピクシブ
 
 ### ピクシブ最優秀賞、OB優秀賞
 

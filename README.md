@@ -52,19 +52,21 @@ Nagoya Institute of Technology, 2nd-year Bachelor student
 <p><strong>担当</strong>：フロントエンド、認証機能</p>
 <p>お祭りの屋台で発生する待ち時間を解消し、お客様が効率的に時間を使えるようにするためのウェブアプリを作成しました。</p>
 
+<br/>
 
 ## < 授業でのグループ開発 >
 
 <img width="300px" alt="スクリーンショット 2025-01-30 18 32 02" src="https://github.com/user-attachments/assets/16965f8b-af65-4363-8a5e-49753d04e13e" />
 
 ### [作業リポジトリ](https://github.com/shimaf4979/my-worry-app)　
-### [振り返り記事](https://qiita.com/shima14142/items/de1c328d233a6248518a)
+### [サイト(稼働中🔥)](https://www.crti.jp/)
 
 
-<p><strong>プロダクト名</strong>：マチケンナンバ</p>
-<p><strong>担当</strong>：フロントエンド、認証機能</p>
-<p>お祭りの屋台で発生する待ち時間を解消し、お客様が効率的に時間を使えるようにするためのウェブアプリを作成しました。</p>
+<p><strong>プロダクト名</strong>：CRTI 理系学生の心の声</p>
+<p><strong>担当</strong>：フロントエンド、バックエンド全般</p>
+<p>理系の学生が抱えている悩みを特定するサイトを制作しました。200人以上の方にご協力していただき、有益なデータが入手できました。</p>
 
+<br/>
 
 # Activity
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimaf4979&theme=dracula)

@@ -36,9 +36,9 @@ Nagoya Institute of Technology, 2nd-year Bachelor student
 
 <br/>
 
-# Portfolio
+# Portfolio(Hackason)
 
-## < C0deハッカソンwithピクシブ >
+### < C0deハッカソンwithピクシブ >
 
 ### ピクシブ最優秀賞、OB優秀賞
 
@@ -54,7 +54,9 @@ Nagoya Institute of Technology, 2nd-year Bachelor student
 
 <br/>
 
-## < 授業でのグループ開発 >
+# Portfolio(Personal)
+
+### CRTI 理系学生の心の声
 
 <img width="300px" alt="スクリーンショット 2025-01-30 18 32 02" src="https://github.com/user-attachments/assets/16965f8b-af65-4363-8a5e-49753d04e13e" />
 

@@ -5,7 +5,7 @@ Nagoya Institute of Technology, 2nd-year Bachelor student
 
 <br/>
 
-# Tech Stack
+# 🔧Tech Stac🔧
 <table>
   <tr>
     <th>得意分野</th>
@@ -36,7 +36,7 @@ Nagoya Institute of Technology, 2nd-year Bachelor student
 
 <br/>
 
-# Portfolio(Hackathon)
+# 📗Portfolio(Hackathon)📗
 
 ### < C0deハッカソンwithピクシブ >
 
@@ -54,7 +54,7 @@ Nagoya Institute of Technology, 2nd-year Bachelor student
 
 <br/>
 
-# Portfolio(Personal)
+# 📕Portfolio(Personal)📕
 
 ### < CRTI 理系学生の心の声 >
 
@@ -85,7 +85,7 @@ Nagoya Institute of Technology, 2nd-year Bachelor student
 
 
 
-# Activity
+# 🏃Activity🏃
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimaf4979&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shimaf4979&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shimaf4979&theme=dracula)

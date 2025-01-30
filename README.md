@@ -54,7 +54,7 @@ Nagoya Institute of Technology, 2nd-year Bachelor student
 
 ### < 授業でのグループ開発 >
 
-<img width="605" alt="スクリーンショット 2025-01-30 18 32 02" src="https://github.com/user-attachments/assets/16965f8b-af65-4363-8a5e-49753d04e13e" />
+<img width="300px" alt="スクリーンショット 2025-01-30 18 32 02" src="https://github.com/user-attachments/assets/16965f8b-af65-4363-8a5e-49753d04e13e" />
 
 ### [作業リポジトリ](https://github.com/shimaf4979/my-worry-app)　
 ### [振り返り記事](https://qiita.com/shima14142/items/de1c328d233a6248518a)

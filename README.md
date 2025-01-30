@@ -45,7 +45,7 @@ Nagoya Institute of Technology / Bachelor2
 <p>
   <h2 align="center">C0deハッカソンwithピクシブ</h2>
   <h3 align="center">ピクシブ最優秀賞、OB優秀賞</h3>
-  <img width="300px" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3738967/4e6907b8-6524-b119-4f4a-bdbcb3c150ed.png">
+  <img width="300px" align="center" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3738967/4e6907b8-6524-b119-4f4a-bdbcb3c150ed.png">
   <h4>
    <a href="https://github.com/inukaki/MachikenNumber">作業リポジトリ</a>
    <a href="https://qiita.com/shima14142/items/de1c328d233a6248518a">振り返り記事</a>

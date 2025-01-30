@@ -76,8 +76,7 @@ Nagoya Institute of Technology, 2nd-year Bachelor student
 ### [サイト(現在移行中🥲)](https://melonchart-faf8d1803931.herokuapp.com/)
 
 
-<p>理系の学生が抱えている悩みを特定するサイトを制作しました。</p>
-<p>200人以上の方にご協力していただき、有益なデータが入手できました。</p>
+<p>音楽サイトのデータを収集し、それを可視化するサイトを作成しました。</p>
 
 <br/>
 

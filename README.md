@@ -1,3 +1,4 @@
+<div align="center">
 # 💐Hi there ☺️💐
 Nagoya Institute of Technology / Bachelor2
 
@@ -44,7 +45,7 @@ Nagoya Institute of Technology / Bachelor2
 
 
 
-<div align="center">
+
 
 ## C0deハッカソンwithピクシブ
 

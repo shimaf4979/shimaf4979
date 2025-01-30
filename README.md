@@ -63,7 +63,6 @@ Nagoya Institute of Technology / Bachelor2
 
 </div>
 
-</div>
 
 
 

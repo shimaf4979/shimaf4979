@@ -64,18 +64,19 @@ Nagoya Institute of Technology, 2nd-year Bachelor student
 ### [サイト(稼働中🔥)](https://www.crti.jp/)
 
 
-<p><strong>選定技術→</strong>TailwindCSS/React/Next.js/Supabase(PostgleSQL)/Prisma</p>
+<p><strong>選定技術→</strong>TailwindCSS/React/Next.js/Supabase(PostgleSQL)/Prisma/Vercel</p>
 <p>理系の学生が抱えている悩みを特定するサイトを制作しました。</p>
 <p>200人以上の方にご協力していただき、有益なデータが入手できました。</p>
 
 ### < MelonChart検索アプリ >
 
-<img width="300px" alt="スクリーンショット 2025-01-30 18 32 02" src="https://github.com/user-attachments/assets/16965f8b-af65-4363-8a5e-49753d04e13e" />
+<img width="300px" alt="スクリーンショット 2025-01-30 18 49 39" src="https://github.com/user-attachments/assets/8eb6b0ed-675f-4325-8b93-92ec2ff65e3a" />
+
 
 ### [作業リポジトリ](https://github.com/shimaf4979/my-worry-app)　
 ### [サイト(現在移行中🥲)](https://melonchart-faf8d1803931.herokuapp.com/)
 
-
+<p><strong>選定技術→</strong>Python/Flask/Streamlit/Scrapy-Selenium/Heroku</p>
 <p>音楽サイトのデータを収集し、それを可視化するサイトを作成しました。</p>
 
 <br/>

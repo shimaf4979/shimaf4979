@@ -26,9 +26,6 @@ Nagoya Institute of Technology / Bachelor2
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimaf4979&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shimaf4979&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shimaf4979&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shimaf4979&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shimaf4979&theme=gruvbox&utcOffset=9)
-
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
 

@@ -36,7 +36,7 @@ Nagoya Institute of Technology, 2nd-year Bachelor student
 
 <br/>
 
-# Portfolio(hackathon)
+# Portfolio(Hackathon)
 
 ### < C0deハッカソンwithピクシブ >
 

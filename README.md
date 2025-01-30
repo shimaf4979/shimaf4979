@@ -22,12 +22,11 @@ Nagoya Institute of Technology / Bachelor2
 ![Django](https://skillicons.dev/icons?i=supabase)
 ![Docker](https://skillicons.dev/icons?i=docker)
 
-## Stats
+## 活動記録
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimaf4979&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shimaf4979&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shimaf4979&theme=gruvbox)
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shimaf4979&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shimaf4979&theme=dracula)
+![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=dracula)
 
 
 <!-- ## 触れたことがある
@@ -39,10 +38,7 @@ Nagoya Institute of Technology / Bachelor2
 ![C++](https://skillicons.dev/icons?i=cpp)
 -->
 
----
-## 活動記録
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimaf4979&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shimaf4979&theme=default)
+
 
 
 <!--

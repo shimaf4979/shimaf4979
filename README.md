@@ -1,7 +1,7 @@
 <div align="center">
   
 # 💐Hi there ☺️💐
-Nagoya Institute of Technology / Bachelor2
+Nagoya Institute of Technology, 2nd-year Bachelor student
 
 
 ## Tech Stack

@@ -9,7 +9,7 @@ Nagoya Institute of Technology / Bachelor2
 
 ## 現在学習中
 
-![d3](https://skillicons.dev/icons?i=d3)
+![d3](https://skillicons.dev/icons?i=php)
 ![Three.js](https://skillicons.dev/icons?i=threejs)
 ![Nest.js](https://skillicons.dev/icons?i=nestjs)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark)

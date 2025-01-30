@@ -45,7 +45,7 @@ Nagoya Institute of Technology / Bachelor2
 <p>
   <h2 align="center">C0deハッカソンwithピクシブ</h2>
   <h3 align="center">ピクシブ最優秀賞、OB優秀賞</h3>
-  <img width="300px" align="center" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3738967/4e6907b8-6524-b119-4f4a-bdbcb3c150ed.png">
+  <img width="300px"  src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3738967/4e6907b8-6524-b119-4f4a-bdbcb3c150ed.png">
   <h4>
    <a href="https://github.com/inukaki/MachikenNumber">作業リポジトリ</a>
    <a href="https://qiita.com/shima14142/items/de1c328d233a6248518a">振り返り記事</a>
@@ -54,6 +54,23 @@ Nagoya Institute of Technology / Bachelor2
 <li>プロダクト名：マチケンナンバ</li>
 <li>お祭りの屋台で発生する待ち時間を解消し、お客様が効率的に時間を使えるようにするためのウェブアプリです。</li>
 <li>担当:フロントエンド、認証機能</li>
+
+
+<div style="text-align: center;">
+  <h2>C0deハッカソンwithピクシブ</h2>
+  <h3>ピクシブ最優秀賞、OB優秀賞</h3>
+  <img width="300px" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3738967/4e6907b8-6524-b119-4f4a-bdbcb3c150ed.png">
+  <h4>
+    <a href="https://github.com/inukaki/MachikenNumber">作業リポジトリ</a>　
+    <a href="https://qiita.com/shima14142/items/de1c328d233a6248518a">振り返り記事</a>
+  </h4>
+  <ul style="list-style-position: inside; display: inline-block; text-align: left;">
+    <li>プロダクト名：マチケンナンバ</li>
+    <li>お祭りの屋台で発生する待ち時間を解消し、お客様が効率的に時間を使えるようにするためのウェブアプリです。</li>
+    <li>担当: フロントエンド、認証機能</li>
+  </ul>
+</div>
+
 
 
 

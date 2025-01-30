@@ -1,30 +1,34 @@
 # 💐Hi there ☺️💐
 Nagoya Institute of Technology / Bachelor2
 
+<table>
+  <tr>
+    <th>得意分野</th>
+    <th>現在学習中</th>
+    <th>その他</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS">
+      <img src="https://skillicons.dev/icons?i=react" alt="React">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=php" alt="PHP">
+      <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js">
+      <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=django" alt="Django">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
+      <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase">
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker">
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex; justify-content: space-between; text-align: center;">
-  <div style="width: 33.33%;">
-    <h3>得意分野</h3>
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS">
-    <img src="https://skillicons.dev/icons?i=react" alt="React">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js">
-  </div>
-  <div style="width: 33.33%;">
-    <h3>現在学習中</h3>
-    <img src="https://skillicons.dev/icons?i=php" alt="PHP">
-    <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js">
-    <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java">
-  </div>
-  <div style="width: 33.33%;">
-    <h3>その他</h3>
-    <img src="https://skillicons.dev/icons?i=django" alt="Django">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
-    <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker">
-  </div>
-</div>
 
 
 

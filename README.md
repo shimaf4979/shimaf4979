@@ -3,6 +3,7 @@
 # 💐Hi there ☺️💐
 Nagoya Institute of Technology, 2nd-year Bachelor student
 
+<br/>
 
 # Tech Stack
 <table>
@@ -33,11 +34,11 @@ Nagoya Institute of Technology, 2nd-year Bachelor student
   </tr>
 </table>
 
-
+<br/>
 
 # Portfolio
 
-### < C0deハッカソンwithピクシブ >
+## < C0deハッカソンwithピクシブ >
 
 ### ピクシブ最優秀賞、OB優秀賞
 
@@ -52,7 +53,7 @@ Nagoya Institute of Technology, 2nd-year Bachelor student
 <p>お祭りの屋台で発生する待ち時間を解消し、お客様が効率的に時間を使えるようにするためのウェブアプリを作成しました。</p>
 
 
-### < 授業でのグループ開発 >
+## < 授業でのグループ開発 >
 
 <img width="300px" alt="スクリーンショット 2025-01-30 18 32 02" src="https://github.com/user-attachments/assets/16965f8b-af65-4363-8a5e-49753d04e13e" />
 

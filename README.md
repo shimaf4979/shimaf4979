@@ -31,7 +31,7 @@ Nagoya Institute of Technology / Bachelor2
 
 
 
-
+<!--
 ## 得意分野
 ![Vite](https://skillicons.dev/icons?i=ts)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
@@ -52,6 +52,7 @@ Nagoya Institute of Technology / Bachelor2
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Django](https://skillicons.dev/icons?i=supabase)
 ![Docker](https://skillicons.dev/icons?i=docker)
+-->
 
 ## 活動記録
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimaf4979&theme=dracula)

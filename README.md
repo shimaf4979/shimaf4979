@@ -56,7 +56,7 @@ Nagoya Institute of Technology / Bachelor2
 ![Docker](https://skillicons.dev/icons?i=docker)
 -->
 
-## 活動記録
+## Activity
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimaf4979&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shimaf4979&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shimaf4979&theme=dracula)

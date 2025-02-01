@@ -3,7 +3,7 @@
 # 💐Hi there ☺️💐
 Nagoya Institute of Technology, 2nd-year Bachelor student
 
-<br/>
+
 <br/>
 
 # Tech Stack🔧
@@ -35,7 +35,7 @@ Nagoya Institute of Technology, 2nd-year Bachelor student
   </tr>
 </table>
 
-<br/>
+
 <br/>
 
 # Portfolio(Hackathon)📗
@@ -54,7 +54,8 @@ Nagoya Institute of Technology, 2nd-year Bachelor student
 <p><strong>担当→</strong>フロントエンド、認証機能</p>
 <p>お祭りの屋台で発生する待ち時間を解消し、お客様が効率的に時間を使えるようにするためのウェブアプリを作成しました。</p>
 
-<br/>
+
+
 <br/>
 
 # Portfolio(Personal)📕

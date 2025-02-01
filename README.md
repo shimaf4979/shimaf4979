@@ -40,7 +40,7 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
 
 # Portfolio(Hackathon)📗
 
-### < C0deハッカソンwithピクシブ-2025/12/4~20 >
+### < C0deハッカソンwithピクシブ-2025 >
 
 ### ピクシブ最優秀賞、OB優秀賞
 

@@ -1,7 +1,7 @@
 <div align="center">
   
 # 💐Hi there ☺️💐
-Nagoya Institute of Technology, 2nd-year Bachelor student
+I'm a second-year Bachelor's student, at Nagoya Institute of Technology.
 
 
 <br/>

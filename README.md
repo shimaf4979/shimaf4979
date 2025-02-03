@@ -91,11 +91,6 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
 
 
 
-# Activity🏃
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimaf4979&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shimaf4979&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shimaf4979&theme=dracula)
-![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=dracula)
 
 
 
@@ -126,6 +121,13 @@ Here are some ideas to get you started:
 
 <!--
 ## 得意分野
+
+# Activity🏃
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimaf4979&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shimaf4979&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shimaf4979&theme=dracula)
+![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=dracula)
+
 ![Vite](https://skillicons.dev/icons?i=ts)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 ![Vite](https://skillicons.dev/icons?i=react)

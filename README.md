@@ -3,6 +3,7 @@
 # 💐Hi there ☺️💐
 Second-year Bachelor's student, at Nagoya Institute of Technology.
 
+[Check out my portfolio page !](https://github.com/shimaf4979/my-worry-app2)　
 
 <br/>
 

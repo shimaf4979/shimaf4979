@@ -49,7 +49,6 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
       <img src="https://skillicons.dev/icons?i=aws" alt="Nest.js">
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=django" alt="Django">
       <img src="https://skillicons.dev/icons?i=docker" alt="Docker">
     </td>
   </tr>

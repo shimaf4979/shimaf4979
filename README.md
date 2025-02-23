@@ -16,7 +16,7 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
   </tr>
   <tr>
     <td>
-      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=ts&theme=dark" alt="django">
       <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS">
       <img src="https://skillicons.dev/icons?i=react" alt="React">
       <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js">

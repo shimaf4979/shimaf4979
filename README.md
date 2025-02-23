@@ -41,6 +41,105 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Database</th>
+    <th>Hosting</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS">
+      <img src="https://skillicons.dev/icons?i=react" alt="React">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=threejs" alt="django">
+      <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=django" alt="Django">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
+      <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase">
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker">
+    </td>
+      <td>
+      <img src="https://skillicons.dev/icons?i=django" alt="Django">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
+      <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase">
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker">
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Database</th>
+    <th>Hosting</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS">
+      <img src="https://skillicons.dev/icons?i=react" alt="React">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=threejs" alt="django">
+      <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=django" alt="Django">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
+      <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase">
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker">
+    </td>
+      <td>
+      <img src="https://skillicons.dev/icons?i=django" alt="Django">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
+      <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase">
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker">
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Database</th>
+    <th>Hosting</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS">
+      <img src="https://skillicons.dev/icons?i=react" alt="React">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=threejs" alt="django">
+      <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=django" alt="Django">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
+      <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase">
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker">
+    </td>
+      <td>
+      <img src="https://skillicons.dev/icons?i=django" alt="Django">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
+      <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase">
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker">
+    </td>
+  </tr>
+</table>
 
 
 <br/>

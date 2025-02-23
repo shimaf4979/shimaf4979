@@ -47,8 +47,8 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=vercel" alt="django">
-      <img src="https://skillicons.dev/icons?i=aws" alt="Nest.js">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=heroku&theme=dark" alt="Java">
+      <img src="https://skillicons.dev/icons?i=aws" alt="Nest.js">
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=docker" alt="Docker">

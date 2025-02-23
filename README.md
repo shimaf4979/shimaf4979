@@ -10,9 +10,10 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
 # Tech Stack🔧
 <table>
   <tr>
-    <th>得意分野</th>
-    <th>現在学習中</th>
-    <th>その他</th>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Database</th>
+    <th>Hosting</th>
   </tr>
   <tr>
     <td>
@@ -22,12 +23,17 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
       <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js">
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=php" alt="PHP">
-      <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js">
+      <img src="https://skillicons.dev/icons?i=threejs" alt="django">
       <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java">
     </td>
     <td>
+      <img src="https://skillicons.dev/icons?i=django" alt="Django">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
+      <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase">
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker">
+    </td>
+      <td>
       <img src="https://skillicons.dev/icons?i=django" alt="Django">
       <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
       <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase">

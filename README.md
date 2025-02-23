@@ -12,7 +12,6 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
   <tr>
     <th>Frontend</th>
     <th>FrontendTools</th>
-    <th>Backend</th>
   </tr>
   <tr>
     <td>
@@ -27,27 +26,26 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
       <img src="https://skillicons.dev/icons?i=vitest" alt="Nest.js">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=authjs&theme=dark" alt="django">
     </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=django&theme=dark" alt="Java">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java">
-    </td>
 </table>
 
 <table>
   <tr>
+    <th>Backend</th>
     <th>Database</th>
     <th>Hosting</th>
     <th>Other</th>
   </tr>
   <tr>
+        <td>
+      <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=django&theme=dark" alt="Java">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" alt="Java">
+    </td>
     <td>
       <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
       <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase">
-      <img src="https://skillicons.dev/icons?i=mongo" alt="Supabase">
     </td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=heroku&theme=dark" alt="Java">
       <img src="https://skillicons.dev/icons?i=vercel" alt="django">
       <img src="https://skillicons.dev/icons?i=aws" alt="Nest.js">
     </td>

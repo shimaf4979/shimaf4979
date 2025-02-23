@@ -43,6 +43,7 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
     <td>
       <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
       <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase">
+      <img src="https://skillicons.dev/icons?i=mongo" alt="Supabase">
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=vercel" alt="django">

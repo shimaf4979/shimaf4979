@@ -26,6 +26,7 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
       <img src="https://go-skill-icons.vercel.app/api/icons?i=storybook&theme=dark" alt="django">
       <img src="https://skillicons.dev/icons?i=vitest" alt="Nest.js">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=authjs&theme=dark" alt="django">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=prisma&theme=dark" alt="django">
     </td>
 </table>
 

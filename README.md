@@ -51,7 +51,6 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=docker" alt="Docker">
-
     </td>
   </tr>
 </table>

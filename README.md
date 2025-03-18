@@ -89,7 +89,7 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
 ### [サイト(稼働中🔥)](https://www.pamfree.com/)
 
 
-<p><strong>選定技術→</strong>TailwindCSS/React/Next.js/Supabase(PostgleSQL)/Prisma/Vercel</p>
+<p><strong>選定技術→</strong>TailwindCSS/React/Next.js/Supabase(PostgleSQL)/StoryBook/Vercel</p>
 <p>理系の学生が抱えている悩みを特定するサイトを制作しました。</p>
 <p>200人以上の方にご協力していただき、有益なデータが入手できました。</p>
 

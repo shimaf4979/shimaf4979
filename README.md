@@ -90,8 +90,8 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
 
 
 <p><strong>選定技術→</strong>TailwindCSS/React/Next.js/Supabase(PostgleSQL)/StoryBook/Vercel</p>
-<p>理系の学生が抱えている悩みを特定するサイトを制作しました。</p>
-<p>200人以上の方にご協力していただき、有益なデータが入手できました。</p>
+<p>既存の地図やフロアプランを活かしながら、インタラクティブな電子パンフレットに変換するサービスを作成しました。</p>
+<p>学校のパンフレットやハッカソンのブース展示に役立ちます！</p>
 
 <br/>
 

@@ -81,6 +81,20 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
 
 # Portfolio(Personal)📕
 
+### < Pamfree 地図をもっとインタラクティブに >
+
+<img width="300px" alt="スクリーンショット 2025-01-30 18 32 02" src="https://github.com/user-attachments/assets/f011a7ff-14af-4764-b13b-a7f6db70ac05" />
+
+### [作業リポジトリ](https://github.com/shimaf4979/timer)　
+### [サイト(稼働中🔥)](https://www.pamfree.com/)
+
+
+<p><strong>選定技術→</strong>TailwindCSS/React/Next.js/Supabase(PostgleSQL)/Prisma/Vercel</p>
+<p>理系の学生が抱えている悩みを特定するサイトを制作しました。</p>
+<p>200人以上の方にご協力していただき、有益なデータが入手できました。</p>
+
+<br/>
+
 ### < CRTI 理系学生の心の声 >
 
 <img width="300px" alt="スクリーンショット 2025-01-30 18 32 02" src="https://github.com/user-attachments/assets/16965f8b-af65-4363-8a5e-49753d04e13e" />

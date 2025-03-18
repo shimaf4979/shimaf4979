@@ -100,7 +100,7 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
 <img width="300px" alt="スクリーンショット 2025-01-30 18 32 02" src="https://github.com/user-attachments/assets/16965f8b-af65-4363-8a5e-49753d04e13e" />
 
 ### [作業リポジトリ](https://github.com/shimaf4979/my-worry-app2)　
-### [サイト(稼働中🔥)](https://www.crti.jp/)
+### [サイト](https://www.crti.jp/)
 
 
 <p><strong>選定技術→</strong>TailwindCSS/React/Next.js/Supabase(PostgleSQL)/Prisma/Vercel</p>

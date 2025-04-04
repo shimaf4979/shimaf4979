@@ -80,6 +80,26 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
 
 <br/>
 
+
+### < SysHack 2025 初陣の春 >
+
+### サイバーエージェント賞
+
+
+<img width="300px" src="https://github.com/user-attachments/assets/e349b7b4-394d-4a61-905b-9f3ee6a78c59">
+
+### [作業リポジトリ](https://github.com/orgs/SketchShifter/repositories)　
+### [公開サイト](https://www.serendicode-sub.click/)
+
+
+<p><strong>プロダクト名→</strong>SSJS</p>
+<p><strong>担当→</strong>サーバー、バックエンド</p>
+<p>processingをjsに変換するライブラリを作成し、それを共有するプラットフォームを作成しました。構文解析から実施しました。</p>
+
+
+
+<br/>
+
 # Portfolio(Personal)📕
 
 ### < Pamfree 地図をもっとインタラクティブに >

@@ -46,7 +46,6 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
       <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase">
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=vercel" alt="django">
       <img src="https://skillicons.dev/icons?i=aws" alt="Nest.js">
       <img src="https://skillicons.dev/icons?i=cloudflare" alt="Nest.js">
     </td>

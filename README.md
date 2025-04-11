@@ -5,6 +5,7 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
 
 [Check out my portfolio page !](https://www.serendicode.com/)　
 
+
 <br/>
 
 # Tech Stack🔧

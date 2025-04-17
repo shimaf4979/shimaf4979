@@ -110,7 +110,7 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
 ### [サイト(稼働中🔥)](https://www.pamfree.com/)
 
 
-<p><strong>選定技術→</strong>TailwindCSS/React/Next.js/Supabase(PostgleSQL)/StoryBook/Vercel</p>
+<p><strong>選定技術→</strong> Next.js/Go(Gin)/AWS/Cloudflare/Cloudinary</p>
 <p>既存の地図やフロアプランを活かしながら、インタラクティブな電子パンフレットに変換するサービスを作成しました。</p>
 <p>学校のパンフレットやハッカソンのブース展示に役立ちます！</p>
 

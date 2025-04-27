@@ -106,7 +106,7 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
 
 <img width="500px" alt="スクリーンショット 2025-01-30 18 32 02" src="https://github.com/user-attachments/assets/f011a7ff-14af-4764-b13b-a7f6db70ac05" />
 
-### [作業リポジトリ](https://github.com/shimaf4979/pamfree)　
+### [作業リポジトリ](https://github.com/shimaf4979/timer)　
 ### [サイト(稼働中🔥)](https://www.pamfree.com/)
 
 

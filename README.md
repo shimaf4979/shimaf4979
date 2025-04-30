@@ -103,6 +103,7 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
 # Portfolio(Personal)📕
 
 ### < Pamfree 地図をもっとインタラクティブに >
+### ピクシブ最優秀賞、OB優秀賞
 
 <img width="500px" alt="スクリーンショット 2025-01-30 18 32 02" src="https://github.com/user-attachments/assets/f011a7ff-14af-4764-b13b-a7f6db70ac05" />
 

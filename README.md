@@ -85,6 +85,8 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
 
 ### サイバーエージェント賞
 
+### < 技育博2025 vol.2 >
+### DeNA賞
 
 <img width="300px" src="https://github.com/user-attachments/assets/e349b7b4-394d-4a61-905b-9f3ee6a78c59">
 

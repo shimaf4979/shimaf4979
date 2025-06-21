@@ -48,6 +48,7 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=aws" alt="Nest.js">
+        <img src="https://skillicons.dev/icons?i=azure" alt="Nest.js">
       <img src="https://skillicons.dev/icons?i=cloudflare" alt="Nest.js">
     </td>
     <td>

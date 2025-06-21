@@ -38,7 +38,6 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
   </tr>
   <tr>
         <td>
-          <img src="https://skillicons.dev/icons?i=go" alt="Nest.js">
             <img src="https://go-skill-icons.vercel.app/api/icons?i=go&theme=dark" alt="Java">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=hono&theme=dark" alt="Java">
       <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js">
